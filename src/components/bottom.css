@@ -1,0 +1,37 @@
+.bottom{
+   
+    width: 100%;
+    border: none;
+    background-color:rgb(0, 0, 51);
+    color: white;
+   
+}
+.ul{
+    margin-left: 100px;
+    display: inline-block;
+    list-style-type: none;
+    margin-top: 40px;
+}
+.li{
+    display: inline-block;
+    margin-left: 10px;
+    
+}
+.bottom_ul{
+    list-style-type: none;
+    text-align: center;
+}
+.bottom_li{
+    margin-left: -200px ;
+}
+
+.bottom_img{
+    width: 30%;
+
+}
+
+.ul2{
+    margin-left: 300px;
+    display: inline-block;
+    list-style-type: none;
+}
